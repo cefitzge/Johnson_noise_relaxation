@@ -1,4 +1,4 @@
 # Johnson_noise_relaxation
-Reproducing Johnson noise relaxation (Fig 3) following: PHYSICAL REVIEW B 90, 235315 (2014), DOI: 10.1103/PhysRevB.90.235315
+Based off work by: PHYSICAL REVIEW B 90, 235315 (2014), DOI: 10.1103/PhysRevB.90.235315 (Fig 3)
 
-Johnson noise relaxation data produced with johnson_noise.cpp to relaxation.txt and plotted with johnson_noise.nb Mathematica file
+Using same parameters in the above paper, I reproduced the Johnson noise relaxation plot (Fig 3). Using johnson_noise.cpp, I produced the data in the relaxation.txt file and plotted that with the Mathematica file johnson_noise.nb
